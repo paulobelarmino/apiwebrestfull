@@ -10,3 +10,4 @@
 |  04  | Definir serviços |<img src="img/em_processo.png" alt="Em procesoo" width="60" height="60"/>|
 |  05  | Definir controles |<img src="img/em_processo.png" alt="Em processo" width="60" height="60"/>
 |  06  | Definir DTOs |<img src="img/em_processo.png" alt="Em processo" width="60" height="60"/>|
+|  06  | Fazer testes com postman |<img src="img/nao_iniciado.png" alt="Em processo" width="60" height="60"/>|
